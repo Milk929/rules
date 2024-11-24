@@ -1,0 +1,12 @@
+rules:
+  - DOMAIN-SUFFIX,hhanclub.top,DIRECT
+  - DOMAIN-SUFFIX,piggo.me,DIRECT
+  - DOMAIN-SUFFIX,pt.btschool.club,DIRECT
+  - DOMAIN-SUFFIX,hdhome.org,DIRECT
+  - DOMAIN-SUFFIX,pterclub.com,DIRECT
+  - DOMAIN-SUFFIX,pt.keepfrds.com,DIRECT
+  - DOMAIN-SUFFIX,ourbits.club,DIRECT
+  - DOMAIN-SUFFIX,totheglory.im,DIRECT
+  - DOMAIN-SUFFIX,springsunday.net,DIRECT
+  - DOMAIN-SUFFIX,hdsky.me,DIRECT
+  - DOMAIN-SUFFIX,audiences.me,DIRECT
