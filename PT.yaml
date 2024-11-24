@@ -1,4 +1,9 @@
-rules:
+# NAME:PT
+# AUTHOR: Milk929
+# UPDATED: 2024-11-24
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
+payload:
   - DOMAIN-SUFFIX,hhanclub.top,DIRECT
   - DOMAIN-SUFFIX,piggo.me,DIRECT
   - DOMAIN-SUFFIX,pt.btschool.club,DIRECT
@@ -10,3 +15,6 @@ rules:
   - DOMAIN-SUFFIX,springsunday.net,DIRECT
   - DOMAIN-SUFFIX,hdsky.me,DIRECT
   - DOMAIN-SUFFIX,audiences.me,DIRECT
+  - DOMAIN-SUFFIX,soulvoice.club,DIRECT
+  - DOMAIN-SUFFIX,greatposterwall.com,DIRECT
+  - DOMAIN-SUFFIX,dicmusic.com,DIRECT
