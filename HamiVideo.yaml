@@ -1,8 +1,0 @@
-# NAME:HamiVideo
-# AUTHOR: Milk929
-# UPDATED: 2024-11-26
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
-payload:
-  - DOMAIN-SUFFIX,+.hinet.net
-  - DOMAIN-SUFFIX,wawo-tw-hinet.com
