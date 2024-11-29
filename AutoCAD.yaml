@@ -2,8 +2,8 @@
 # AUTHOR: Milk929
 # UPDATED: 2024-11-29
 # DOMAIN-SUFFIX: 5
-# DOMAIN-KEYWORD: 1
-# TOTAL: 6
+# DOMAIN-KEYWORD: 2
+# TOTAL: 7
 payload:
   - DOMAIN-SUFFIX,autodesk.com
   - DOMAIN-SUFFIX,autodesk.net
@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,edgekey.net
   - DOMAIN-SUFFIX,akamaiedge-staging.net
   - DOMAIN-KEYWORD,autodesk
+  - DOMAIN-KEYWORD,autocad
