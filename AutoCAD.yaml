@@ -1,0 +1,13 @@
+# NAME:AutoCAD
+# AUTHOR: Milk929
+# UPDATED: 2024-11-29
+# DOMAIN-SUFFIX: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 6
+payload:
+  - DOMAIN-SUFFIX,autodesk.com
+  - DOMAIN-SUFFIX,autodesk.net
+  - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,edgekey.net
+  - DOMAIN-SUFFIX,akamaiedge-staging.net
+  - DOMAIN-KEYWORD,autodesk
